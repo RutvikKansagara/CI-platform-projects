@@ -1,0 +1,43 @@
+#a1 {
+    font-family: Roboto;
+}
+
+#a2 {
+    font-size: 3.5vh;
+    font-family: Roboto;
+}
+
+#btn {
+    color: #FFFFFF;
+    opacity: 1;
+    font-family: Roboto;
+    border: 2px solid #C8242F;
+    border-radius: 24px;
+   
+    width: 15vh;
+}
+
+.form-control {
+   height: 50px;
+}
+
+.a4{
+    width: 66%;
+}
+.a5{
+    margin-left: 25%;
+}
+.cont{
+    margin: auto;
+}
+
+.c3{
+    display: flex;
+}
+.c4{
+    width:50px;
+    height: 50px;
+}
+.c5{
+    width: 68px;
+}
